@@ -12,4 +12,4 @@ Feature: calculation de prix de plusieurs produits
     Examples: 
       | quantity | price |
       |        1 | 16.50 |
-      |        2 | 32.00 |
+      |        2 | 33.00 |
